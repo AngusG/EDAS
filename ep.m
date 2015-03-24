@@ -2,16 +2,16 @@
 
 % Author: Angus Galloway, March 2015
 
+% purpose: perform maximal normalized cross correlation with 0.5s lag on all combinations
+% 	   of eeg channels and generate feature matrix of arbitrary length for input to SVM
 % Assumes: pmat.py and loadtxt.m have been run
-% Notes: 'channels' is an m = 239766 by n = 16 matrix
-% provided by loadtxt.m which has been put in another
-% script to facilitate debugging
+% Notes: 'channels' is an m = 239766 by n = 16 matrix provided by loadtxt.m which has been put in another
+%        script to facilitate debugging
 
 Max = max(channels); %get the extreme values in entire dataset
 Min = min(channels);
 
 %suppress broadcast warning
-warning ("off", "Octave:broadcast");
 warning ("off", "Octave:broadcast");
 
 for i = 1:16

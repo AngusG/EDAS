@@ -1,1 +1,2 @@
-# EDAS
+# EDAS - Epileptic Driver Assistance System
+# more to come...
