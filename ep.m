@@ -12,6 +12,7 @@ Min = min(channels);
 
 %suppress broadcast warning
 warning ("off", "Octave:broadcast");
+warning ("off", "Octave:broadcast");
 
 for i = 1:16
   % normalize channels one at a time (one column at a time)
