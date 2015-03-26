@@ -9,12 +9,12 @@ Run one of
 <li> tmat.py  /* test */ </li>
 
 </ul>
-<ol>
 
 saves to '/data/<segment_type><segment_number>.txt'
 
 In load.m edit fields segment and type
 
+<ol>
 
 <li> Run load.m in Ocatve </li>
 
