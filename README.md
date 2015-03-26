@@ -10,7 +10,7 @@ Run one of
 
 </ul>
 
-saves to /data/<segment_type><segment_number>.txt
+saves to data/<segment_type><segment_number>.txt
 
 In load.m edit fields segment and type
 
