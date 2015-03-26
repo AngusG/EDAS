@@ -1,7 +1,5 @@
 # EDAS - Epileptic Driver Assistance System
 
-<ol>
-
 Run one of 
 
 <ul>
@@ -11,6 +9,7 @@ Run one of
 <li>  tmat.py /* test */ </li>
 
 </ul>
+<ol>
 
 saves to '/data/<segment_type><segment_number>.txt'
 
