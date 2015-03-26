@@ -5,8 +5,8 @@ Run one of
 <ul>
 
 <li> ppmat.py /* preictal */ </li>
-<li>  ipmat.py /* interictal */ </li>
-<li>  tmat.py /* test */ </li>
+<li> ipmat.py /* interictal */ </li>
+<li> tmat.py  /* test */ </li>
 
 </ul>
 <ol>
