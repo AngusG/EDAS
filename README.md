@@ -2,9 +2,9 @@
 
 1. Run one of 
 
-ppmat.py //preictal
-ipmat.py //interictal
-tmat.py //test
+<p> ppmat.py /* preictal */ </p>
+<p> ipmat.py /* interictal */ </p>
+<p> tmat.py /* test */ </p>
 
 saves to /data/<segment type><segment number>.txt
 
@@ -17,3 +17,5 @@ Run load.m in Ocatve
 4. Run savemovie.m to transpose and save as csv
 
 5. Run ./convert svmdata/test.txt > svmdata/svmtext.txt
+
+
