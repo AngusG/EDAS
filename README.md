@@ -15,6 +15,7 @@ saves to '/data/<segment_type><segment_number>.txt'
 
 In load.m edit fields segment and type
 
+
 <li> Run load.m in Ocatve </li>
 
 <li> Run ep.m to calculate cross correlations and save to file. </li>
