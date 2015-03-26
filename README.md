@@ -1,21 +1,32 @@
 # EDAS - Epileptic Driver Assistance System
 
-1. Run one of 
+<ol>
+
+Run one of 
+
+<ul>
 
 <p> ppmat.py /* preictal */ </p>
 <p> ipmat.py /* interictal */ </p>
 <p> tmat.py /* test */ </p>
 
-saves to /data/<segment type><segment number>.txt
+</ul>
 
-2. In load.m edit fields segment and type
+saves to '/data/<segment_type><segment_number>.txt'
 
-Run load.m in Ocatve
+In load.m edit fields segment and type
 
-3. Run ep.m to calculate cross correlations and save to file.
+<li> Run load.m in Ocatve </li>
 
-4. Run savemovie.m to transpose and save as csv
+<li> Run ep.m to calculate cross correlations and save to file. </li>
 
-5. Run ./convert svmdata/test.txt > svmdata/svmtext.txt
+<li> Run savemovie.m to transpose and save as csv </li>
 
+<li> Run ./convert svmdata/test.txt > svmdata/svmtext.txt </li>
 
+<ol>
+
+<li>Example</li>
+<li>Example2</li>
+<li>Example3</li>
+</ol>
