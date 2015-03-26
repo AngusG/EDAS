@@ -38,5 +38,3 @@ for i=1:size(movieMatrixT,1)	%will run for 120x
    fprintf(fid, '\n');
 end
 fclose(fid);
-
-fclose(fileID);
