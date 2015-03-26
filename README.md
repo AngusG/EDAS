@@ -6,9 +6,9 @@ Run one of
 
 <ul>
 
-<p> ppmat.py /* preictal */ </p>
-<p> ipmat.py /* interictal */ </p>
-<p> tmat.py /* test */ </p>
+<li> ppmat.py /* preictal */ </li>
+<li>  ipmat.py /* interictal */ </li>
+<li>  tmat.py /* test */ </li>
 
 </ul>
 
@@ -24,9 +24,5 @@ In load.m edit fields segment and type
 
 <li> Run ./convert svmdata/test.txt > svmdata/svmtext.txt </li>
 
-<ol>
-
-<li>Example</li>
-<li>Example2</li>
-<li>Example3</li>
 </ol>
+
