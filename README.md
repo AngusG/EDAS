@@ -10,9 +10,9 @@ Run one of
 
 </ul>
 
-saves to data/<segment_type><segment_number>.txt
+<p> saves to data/<segment_type><segment_number>.txt </p>
 
-In load.m edit fields segment and type
+<p> In load.m edit fields segment and type </p>
 
 <ol>
 
